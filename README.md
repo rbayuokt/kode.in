@@ -16,7 +16,7 @@ here's the screenshoot of the apps that I made, hope you like it
 **Dashboard :**<br><br>
 <img src="screenshoot/mockup/home.png" width="300px" /><br>
 
-**Morse Code Converte :r**<br><br>
+**Morse Code Converter :**<br><br>
 <img src="screenshoot/mockup/menu1.png" width="300px" /><br>
 
 **Grass Code Converter :**<br><br>
