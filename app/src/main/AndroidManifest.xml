@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.whoami.kodein">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo_fix"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo_fix"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SandiSemaforActivity" android:screenOrientation="portrait"></activity>
+        <activity android:name=".SandiKotakActivity" android:screenOrientation="portrait"/>
+        <activity android:name=".SandiRumputActivity" android:screenOrientation="portrait"/>
+        <activity android:name=".AboutActivity" android:screenOrientation="portrait"/>
+        <activity android:name=".SandiMorseActivity" android:screenOrientation="portrait"/>
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

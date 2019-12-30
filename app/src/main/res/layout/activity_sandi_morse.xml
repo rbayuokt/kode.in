@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    tools:context=".SandiMorseActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fff"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txt_judul"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins_bold"
+            android:textSize="20sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="37dp"
+            android:textColor="@color/hitam"
+            android:text="@string/app_name"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:padding="6dp"
+            android:background="@color/abu3">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:layout_marginHorizontal="37dp"
+                android:fontFamily="@font/poppins_bold"
+                android:text="@string/m1"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins_regular"
+            android:textColor="@color/abu1"
+            android:textSize="16sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="37dp"
+            android:text="@string/label"/>
+
+        <EditText
+            android:id="@+id/edt_morse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="ex: rbayuokt"
+            android:gravity="left|top"
+            android:padding="12dp"
+            android:textSize="16sp"
+            android:fontFamily="@font/poppins_regular"
+            android:layout_marginTop="10dp"
+            android:inputType="textMultiLine"
+            android:lines="6"
+            android:layout_marginHorizontal="37dp"
+            android:maxLines="15"
+            android:minLines="6"
+            android:background="@drawable/round_edt_text"
+            android:scrollbars="vertical" />
+
+        <Button
+            android:id="@+id/btn_convertMorse"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="37dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins_bold"
+            android:background="@drawable/menu_grad_1"
+            android:padding="12dp"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:clickable="true"
+            android:textColor="#fff"
+            android:text="@string/terjamhin"/>
+
+        <TextView
+            android:id="@+id/lbl_hsl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins_bold"
+            android:textColor="@color/abu2"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:visibility="invisible"
+            android:layout_marginHorizontal="37dp"
+            android:text="HASIL :"/>
+
+        <TextView
+            android:id="@+id/hsl_konversi_morse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            android:textColor="@color/abu2"
+            android:textSize="20sp"
+            android:textFontWeight="700"
+            android:lineHeight="33.6sp"
+            android:letterSpacing="0.1"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:textIsSelectable="true"
+            android:layout_marginHorizontal="37dp"
+            android:text=""/>
+
+    </LinearLayout>
+
+</ScrollView>

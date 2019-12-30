@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">kode.in</string>
+    <string name="desc">aplikasi untuk membuat sandi pramuka menjadi lebih mudah.</string>
+    <string name="m1">sandi morse</string>
+    <string name="m2">sandi rumput</string>
+    <string name="m3">sandi kotak</string>
+    <string name="m4">sandi semafor</string>
+    <string name="m5">credit</string>
+    <string name="label">masukan text :</string>
+    <string name="terjamhin">terjemahin</string>
+    <string name="kembali">Kembali</string>
+
+    <string name="nama">Rizky Bayu Oktavian</string>
+    <string name="about_desc">lahir 06 Oktober 1998\nsenang belajar sesuatu yang baru,\nsangat menyukai UI / UX\ndan pemrograman.\n\nInstagram : <b>@rbayuokt</b>\ngithhub : <b>rbayuokt</b>\ndribble : <b>rbayuokt_</b>\n\nMade with ♥ in Cimahi</string>
+</resources>
