@@ -3,8 +3,8 @@
  android based. I make this apps with android studio and adobe xd for the mockup.
  
 # HY
-**Do not publish this apps without my permission ( try to claim this apps is yours ) :( ** <br>
-**that will broke my heart :( **
+**Do not publish this apps without my permission ( try to claim this apps is yours ) :(** <br>
+**that will broke my heart :(**
  
 # Features
 here's the the features of this apps :
