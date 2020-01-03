@@ -2,7 +2,7 @@
  application to help the scout in converting text into scout code in second<br>
  android based. I make this apps with android studio and adobe xd for the mockup.
  
-# HY
+# hello
 **Do not publish this apps without my permission ( try to claim this apps is yours ) :(** <br>
 **that will broke my heart :(**
  
