@@ -1,5 +1,5 @@
 # kode.in
- application to help the scout in converting text into scout code in second<br>
+ An Application that help the scout in converting text into scout code in seconds<br>
  android based. I make this apps with android studio and adobe xd for the mockup.
  
 # hello
