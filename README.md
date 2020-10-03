@@ -10,9 +10,10 @@
 
 ## Table of Contents
 * [Features](#features)
+* [Screenshoots](#screenshoots)
 * [Technology Stack](#technology-stack)
 * [Development Setup](#development-setup)
-* [Structure Directory](#skeleton-directory)
+* [Structure Directory](#structure-directory)
 * [Authors](#authors)
 * [Contributors](#contibutors)
 * [License](#license)
@@ -26,7 +27,7 @@ Here's the the features of this apps :
 - [x] Convert to semaphore-code
 - [x] allow to copy the result text
 
-## Screenshoot
+## Screenshoots
 here's the screenshoot of the apps that I made, hope you like it
 
 **Dashboard :**<br><br>
@@ -54,7 +55,7 @@ Make sure you read this `README.md`
 
 ## Structure Directory
 Struktor folder sangat penting untuk diketahui agar tim mengatahui fungsi-fungsi tiap-tiap folder tujuannya agar memiliki persepsi yang sama. Berikut merupakan struktur folder dari project ini:
-
+skeleton
 ```bash
 ├── kode.id
 │   ├── src
