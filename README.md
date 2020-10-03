@@ -77,7 +77,7 @@ The explanation of the above folders is as follows:
 * **Nenza Nurfirmansyah** - *Contributor* - [nenzan](https://github.com/nenzan)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 
 ## Acknowledgments
 * Hat tip to anyone whose code was used
