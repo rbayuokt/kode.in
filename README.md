@@ -1,13 +1,10 @@
-# kode.id - Tech Documentation
-[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-[![Generic badge](https://img.shields.io/badge/MANTAPANCING-YES-success.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/contributor-5-blue.svg)](https://shields.io/)
-
 # kode.in
- Android based application build to help scouts convert text into *Morse code* in seconds!
- This application build with Android Studio.
+ Android based application build to help scouts convert text into *Morse code* in seconds! This application build with Android Studio.
+ [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)<br>
+ [![Generic badge](https://img.shields.io/badge/MAINTENANCING-YES-success.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/contributor-3-blue.svg)](https://shields.io/)
  
 ## Note
- **Do not publish this apps without my permission or try to claim this apps is yours!!!* <br>
+ **Do not publish this apps without my permission or try to claim this apps is yours!!!** <br>
  **that will broke my heart :(**
 
 ## Table of Contents
@@ -32,10 +29,7 @@ here's the screenshoot of the apps that I made, hope you like it
 **Dashboard :**<br><br>
 <img src="screenshoot/mockup/home.png" width="300px" /><br>
 
-<img src="screenshoot/mockup/menu1.png" width="300px" />
-<img src="screenshoot/mockup/menu2.png" width="300px" />
-<img src="screenshoot/mockup/menu3.png" width="300px" />
-<img src="screenshoot/mockup/menu4.png" width="300px" /><br>
+<img src="screenshoot/mockup/menu1.png" width="300px" /> <img src="screenshoot/mockup/menu2.png" width="300px" /> <img src="screenshoot/mockup/menu3.png" width="300px" /> <img src="screenshoot/mockup/menu4.png" width="300px" />
 
 **Credit Page :**<br><br>
 <img src="screenshoot/mockup/about.png" width="300px" /><br>
