@@ -1,38 +1,82 @@
+# kode.id - Tech Documentation
+[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![Generic badge](https://img.shields.io/badge/MANTAPANCING-YES-success.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/contributor-5-blue.svg)](https://shields.io/)
+
 # kode.in
- An Application that help the scout in converting text into scout code in seconds<br>
- android based. I make this apps with android studio and adobe xd for the mockup.
+ Android based application build to help scouts convert text into *Morse code* in seconds!
+ This application build with Android Studio.
  
-# hello
-**Do not publish this apps without my permission ( try to claim this apps is yours ) :(** <br>
-**that will broke my heart :(**
- 
-# Features
-here's the the features of this apps :
+## Note
+ **Do not publish this apps without my permission or try to claim this apps is yours!!!* <br>
+ **that will broke my heart :(**
+
+## Table of Contents
+* [Features](#features)
+* [Technology Stack](#technology-stack)
+* [Development Setup](#development-setup)
+* [Structure Directory](#skeleton-directory)
+* [Authors](#authors)
+* [License](#license)
+* [Acknowledgments](#acknowledgments)
+
+## Features
+Here's the the features of this apps :
 - [x] Convert to morse-code
 - [x] Convert to grass-code
 - [x] Convert to square-code
 - [x] Convert to semaphore-code
 - [x] allow to copy the result text
 
-# Screenshoot
+## Screenshoot
 here's the screenshoot of the apps that I made, hope you like it
-
 **Dashboard :**<br><br>
 <img src="screenshoot/mockup/home.png" width="300px" /><br>
 
-**Morse Code Converter :**<br><br>
-<img src="screenshoot/mockup/menu1.png" width="300px" /><br>
-
-**Grass Code Converter :**<br><br>
-<img src="screenshoot/mockup/menu2.png" width="300px" /><br>
-
-**Square Code Converter :**<br><br>
-<img src="screenshoot/mockup/menu3.png" width="300px" /><br>
-
-**Semphore Code Converter :**<br><br>
+<img src="screenshoot/mockup/menu1.png" width="300px" />
+<img src="screenshoot/mockup/menu2.png" width="300px" />
+<img src="screenshoot/mockup/menu3.png" width="300px" />
 <img src="screenshoot/mockup/menu4.png" width="300px" /><br>
 
 **Credit Page :**<br><br>
 <img src="screenshoot/mockup/about.png" width="300px" /><br>
 
-made with :heart: in Cimahi by [@rbayuokt](https://www.instagram.com/rbayuokt/) :thumbsup:
+## Technology Stack
+* Programming Language : Java
+* IDE: Android Studio https://developer.android.com/studio/
+* Another Stack: Card View
+
+## Development Setup
+To start this * development project *, make sure you have installed ʻAndroid Studio` and ʻAndroid sdk`. To start this project:
+- Run Android Studio
+- Choose Import project from version control
+- Input link respository Bitbucket: https://github.com/rbayuokt/kode.in
+
+If it goes well, the project will be able to open in Android Studio and it can be build.
+Make sure you read this `README.md`
+
+## Structure Directory
+Struktor folder sangat penting untuk diketahui agar tim mengatahui fungsi-fungsi tiap-tiap folder tujuannya agar memiliki persepsi yang sama. Berikut merupakan struktur folder dari project ini:
+
+```bash
+├── kode.id
+│   ├── src
+│   │   ├──  main
+│   │   |    |──  java
+│   │   |    |──  res
+```
+
+The explanation of the above folders is as follows:
+- **java** is folder which is used to store java files.
+- **res** is folder that is used to store assets such as layout, fonts, images, and others.
+
+## Authors
+* **Rizky Bayu Oktavian** - *kode.in developer* - [@rbayuokt](https://www.instagram.com/rbayuokt/)
+* made with :heart: in Cimahi
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
